@@ -104,7 +104,7 @@ O diretório `session` é criado após o primeiro login — ele mantém sua sess
 
 Feito por José Vinicios  
 🚀 Portfólio: [github.com/Vinicios2j](https://github.com/Vinicios2j)  
-📲 WhatsApp: (inserir seu número opcional)
+📲 WhatsApp: 21995294926
 
 ---
 
